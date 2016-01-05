@@ -1,2 +1,3 @@
-README for jhipster
+README for angularSpringRest
 ==========================
+requires mysql localhost server running with jhipster schema created
